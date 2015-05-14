@@ -1,0 +1,23 @@
+#subpcodes {
+	background:#FFFFFF;
+	border: 1px solid #CAE1EE;
+	box-shadow: 0 1px 2px rgba(0, 0, 0, 0.1) inset, 0 1px 0 rgba(255, 255, 255, 0.2);
+	height: 20px;
+	line-height: 20px;
+	margin: 5px 10px;
+	padding: 0 5px;
+	width: 50px;
+}
+.pcodes {
+	color: #FFF;
+	font-size: 16px;
+	font-weight: bold;
+	font-family: Verdana;
+}
+.hjyl_anti {
+	background:rgba(255, 255, 255, 0.4);
+	height: 32px;
+	line-height: 32px;
+	padding: 0 10px;
+	width:240px;
+}
